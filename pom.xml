@@ -97,6 +97,8 @@
                 <artifactId>maven-surefire-plugin</artifactId>
                 <version>${surefire.version}</version>
             </plugin>
+
+            <!-- Added dependency for protobuf compiler downloader based on OS it will download appropriate protobuf compiler -->
             <plugin>
                 <groupId>org.xolstice.maven.plugins</groupId>
                 <artifactId>protobuf-maven-plugin</artifactId>
