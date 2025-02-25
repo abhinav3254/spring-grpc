@@ -1,6 +1,6 @@
 package com.abhinav3254.sec01;
 
-import com.abhinav3254.models.PersonOuterClass;
+import com.abhinav3254.models.sec01.PersonOuterClass;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
