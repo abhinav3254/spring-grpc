@@ -5,7 +5,7 @@ package com.abhinav3254;
 // target/generated-sources/protobuf/java and right click on java then at the bottom you can find
 // mark directory as "Generated Sources Root", this will remove the red warning and we cam happily use this class
 // importing protobuf class
-import com.abhinav3254.models.PersonOuterClass;
+import com.abhinav3254.models.sec01.PersonOuterClass;
 
 public class Main {
     public static void main(String[] args) {
