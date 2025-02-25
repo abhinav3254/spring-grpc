@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+// for java we have to explicitly mention this
+// which you can see inside target/generated-sources/protobuf/java/com/abhinav3254/models/PersonOuterClass.java
+// when you are using java use this to generate the package for java, for other languages we have other options as well ....
+option java_package = "com.abhinav3254.models";
+
+message Person {
+//    string is datatype and name is field name and 1 is we have to give some field number
+    string name = 1;
+    int32 age = 2;
+}
