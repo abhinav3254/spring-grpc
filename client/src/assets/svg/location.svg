@@ -1,9 +1,0 @@
-<div class="destinations">
-		<div class="icon-container">
-			<img class="search-icon" src="../../../assets/svg/search.svg" alt="search"/>
-		</div>
-		<div class="input-container">
-			<label>Destination</label>
-			<input type="text" />
-		</div>
-	</div>
