@@ -2,7 +2,7 @@ syntax = "proto3";
 
 
 // setting packages names so to keep two same classes
-package sec01;
+package sec02;
 
 // for java we have to explicitly mention this
 // which you can see inside target/generated-sources/protobuf/java/com/abhinav3254/models/PersonOuterClass.java
